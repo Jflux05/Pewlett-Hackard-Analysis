@@ -28,5 +28,22 @@ The following Entity Relationship Diagram (ERD) was used to visualize the relati
 
 In order to ensure an accurate analysis, we needed to compile a list of unique employees in their existing roles that have a high likelihood of retiring soon. 
 
+### Potential Future Job Openings
+
 Once we established a clean list of employees with the highest potential to retire, we were able to get a greater understanding of the employees retiring. We were able to identify how many employees were [retiring by title](Data/retiring_titles.csv). 
-![Retiring_titles.png](dndnkjds)
+
+![Retiring_titles.png](https://github.com/Jflux05/Pewlett-Hackard-Analysis/blob/d7daf15eb901c9bf3f20c5b6e6cf8a20798134a6/Data/retiring_titles.png)
+
+We were able to determine that Pewlett-Hackard currently has just under 72.5K employees that could be retiring soon. 
+
+The analysis spotlights that of the 72,458 employees that could soon retire, a significant portion of the potentially retiring employees:
+- ~75% or 54,447 hold senior, leadership or management roles
+- ~50% or 36,291 are engineers
+
+Without a proper plan for hiring and mentoring new and existing employees to offset such a large loss in talent and internal knowledge Pewlett-Hackard could face significant hardships from such a significant talent drain due to retirement. 
+
+
+### Eligible Employees for Mentorship 
+In response, Pewlett-Hackard has decided to implement a mentorship program, where existing senior employees (born in 1965) can help train and pass on critical internal knowledge to less senior employees. They have requested a list be compiled that would identify who the eligible senior employees are. This criterion resulted in a list with 1549 employees and their titles. 
+
+

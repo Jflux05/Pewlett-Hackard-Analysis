@@ -44,6 +44,14 @@ Without a proper plan for hiring and mentoring new and existing employees to off
 
 
 ### Eligible Employees for Mentorship 
-In response, Pewlett-Hackard has decided to implement a mentorship program, where existing senior employees (born in 1965) can help train and pass on critical internal knowledge to less senior employees. They have requested a list be compiled that would identify who the eligible senior employees are. This criterion resulted in a list with 1549 employees and their titles. 
+In response, Pewlett-Hackard has decided to implement a mentorship program, where existing senior employees (born in 1965) can help train and pass on critical internal knowledge to less senior employees. They have requested a list be compiled that would identify who the eligible senior employees are. 
+
+This criterion resulted in a list (screenshot shown below) with 1549 employees and their titles. 
+![mentorship_eligibility.png](https://github.com/Jflux05/Pewlett-Hackard-Analysis/blob/68e2fcc9a3036160a04cd092e41ae8ecd22bcbc4/Data/mentorship_eligibility.png)
+
+
+
+
+
 
 

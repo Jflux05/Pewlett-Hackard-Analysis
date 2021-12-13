@@ -49,8 +49,11 @@ In response, Pewlett-Hackard has decided to implement a mentorship program, wher
 This criterion resulted in a list (screenshot shown below) with 1549 employees and their titles. 
 ![mentorship_eligibility.png](https://github.com/Jflux05/Pewlett-Hackard-Analysis/blob/68e2fcc9a3036160a04cd092e41ae8ecd22bcbc4/Data/mentorship_eligibility.png)
 
+It appears that there are not enough qualified employees ready for retirement in the various departments to mentor the less senior employees. Each mentor would need to take on a significant amounts mentees, which would be too large of a workload for any employee, especially part-time retiring employees. 
 
 
+## Summary
+Based on the finidings of our analysis, Pewlett-Hackard is facing a "silver tsunami" where 72,458 employees could soon retire. Which will result in a major knowledge drain on the greater organization. HR needs to ramp of its hiring plan to ensure they avoid a productivity deficit as a result of the large amount of employees that could retire soon. 
 
 
 

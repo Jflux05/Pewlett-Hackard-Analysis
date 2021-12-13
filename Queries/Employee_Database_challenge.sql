@@ -49,3 +49,17 @@ FROM employees AS e
 WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
     AND (de.to_date = '9999-01-01')
 ORDER BY e.emp_no;
+
+SELECT * FROM mentorship_eligibility
+
+-- Eligible mentorship candidates count by department
+SELECT d.dept_name, COUNT(me.emp_no)
+INTO ment__dept_candidate_count
+FROM mentorship_eligibility as me
+INNER JOIN dept_emp as de
+	ON (me.emp_no = de.emp_no)
+INNER JOIN departments as d
+	ON (de.dept_no = d.dept_no)
+GROUP BY d.dept_name
+ORDER BY COUNT(me.emp_no) DESC;
+

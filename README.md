@@ -55,6 +55,8 @@ It appears that there are not enough qualified employees ready for retirement in
 ## Summary
 Based on the finidings of our analysis, Pewlett-Hackard is facing a "silver tsunami" where 72,458 employees could soon retire. Which will result in a major knowledge drain on the greater organization. HR needs to ramp of its hiring plan to ensure they avoid a productivity deficit as a result of the large amount of employees that could retire soon. 
 
+Additionally, based on its current selection criteria for the mentorship program, Pewlett-Hackard does not have enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. They should consider expanding the eligibility criteria beyond just those that were born in 1965 to a year earlier or later to expand the eligible candidate pool, and have a successful mentorship program with a better ratio of mentees to mentors. (See the screenshot below for a breakdown of the various departments and the total number of employees that are eligible to participate in the mentorship program for each)
+
 
 
 
